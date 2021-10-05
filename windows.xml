@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<windows>
+	<leftSidePanel>
+		<lsp_height>100%</lsp_height>
+		<lsp_width>200px</lsp_width>
+		<button>
+			<x>10</x>
+			<y>20</y>
+			<height>30</height>
+			<width>40</width>
+			<name>le nom</name>
+			<desctription>la desc</desctription>
+			<target>la cible</target>
+		</button>
+	</leftSidePanel>
+</windows>
